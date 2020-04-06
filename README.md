@@ -52,4 +52,4 @@ Submit a Pull Request, with your joke added to the jokes/index.json file. Make s
 ### Run on Google Cloud Run
 
 [![Run on Google
-Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run/?git_repo=https://github.com/15Dkatz/official_joke_api.git)
+Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run/?git_repo=https://github.com/afritzler/official_joke_api)
